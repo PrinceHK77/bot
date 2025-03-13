@@ -2,3 +2,4 @@
 "pull panni pakka poren"
 "new branch kaga"
 "conflict check"
+"newwwwwwww"
